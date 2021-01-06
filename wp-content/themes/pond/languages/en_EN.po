@@ -1,0 +1,2616 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Language: en\n"
+"X-Generator: Poedit 1.7.4\n"
+
+#. Text in function
+#: language files/theme-onepage-features.php:1
+msgid "%s (Invalid)"
+msgstr ""
+
+#. Text in function
+#: language files/theme-onepage-features.php:1
+msgid "%s (Pending)"
+msgstr ""
+
+#. Text in function
+#: language files/pagebuilder.php:1
+msgid "0.1"
+msgstr ""
+
+#. Text in function
+#: language files/pagebuilder.php:1
+msgid "0.2"
+msgstr ""
+
+#. Text in function
+#: language files/pagebuilder.php:1
+msgid "0.3"
+msgstr ""
+
+#. Text in function
+#: language files/pagebuilder.php:1
+msgid "0.4"
+msgstr ""
+
+#. Text in function
+#: language files/pagebuilder.php:1
+msgid "0.5"
+msgstr ""
+
+#. Text in function
+#: language files/pagebuilder.php:1
+msgid "0.6"
+msgstr ""
+
+#. Text in function
+#: language files/pagebuilder.php:1
+msgid "0.7"
+msgstr ""
+
+#. Text in function
+#: language files/pagebuilder.php:1
+msgid "0.8"
+msgstr ""
+
+#. Text in function
+#: language files/pagebuilder.php:1
+msgid "0.9"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "1"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "2"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "3"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "4"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "404 Page"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "<i>This will have no impact if you choose \\\"Default (no background)\\\" for the Page Title Settings above.</i>"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "<span class=\\\"sr_red\\\"><strong>This will only have impact if you choose full-height!</strong></span><br>Usually used for Portfolio Page title"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Accordion"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Add Accordion"
+msgstr ""
+
+#. Text in function
+#: language files/pagebuilder.php:1
+msgid "Add Element"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Add FIeld"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1520 files/theme-postmeta.php:1
+msgid "Add Image"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1520 files/theme-postmeta.php:1
+msgid "Add Images"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Add Item"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Add Skill"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Add Tab"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Add Testimonial"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Add Video"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Add a 32px x 32px Png/Gif image that will represent your website's favicon."
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Add a background image for the section"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Add a custom logo for the Wordpress login screen."
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Add images or embedded videos, then drag and drop to arrange them."
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Add your Logo in <strong>dark color</strong>.  This logo will be shown for all areas where the background is light."
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Add your Logo in <strong>light color</strong>.  This logo will be shown for all areas where the background is dark."
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Add your images"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Align"
+msgstr ""
+
+#. Text in function
+#: language files/functions.php:1
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Alternativ Main Title"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Alternative Fixed Header"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Analytics / Tracking"
+msgstr ""
+
+#. Text in function
+#: language files/theme-admin.php:147
+msgid "Archive"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Audio"
+msgstr ""
+
+#. Text in function
+#: language files/theme-admin.php:147
+msgid "Author"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Autoplay"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Back To Top"
+msgstr ""
+
+#. Text in function
+#: language files/pagebuilder.php:1
+msgid "Background"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1 files/pagebuilder.php:1
+msgid "Background Color"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1 files/pagebuilder.php:1
+#: files/option-panel.php:1
+msgid "Background Image"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Background color for the text section."
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Behance"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1 files/pagebuilder.php:1
+#: files/option-panel.php:1
+msgid "Big"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Big (600)"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1 files/theme-postmeta.php:1
+msgid "Big / Transparent Letter"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Big Border (60px)"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Blog"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Blog Posts Comments"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Body"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Body Font"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Border"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Bottom"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Bottom Center"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Bottom Left"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Bottom Right"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Branding"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Bullets (Pagination)"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Button Color"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Button Font"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Button Size"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Button Target"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Button Text"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Button URL"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1 files/option-panel.php:1
+msgid "Buttons"
+msgstr ""
+
+#. Text in function
+#: language files/theme-general-features.php:1
+msgid "By"
+msgstr ""
+
+#. Text in echo
+#: language files/theme-onepage-features.php:175
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#. Text in function
+#: language files/theme-admin.php:147
+msgid "Cancel Reply"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Carousel"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1 files/theme-custom-post-types.php:1
+#: files/theme-admin.php:147
+msgid "Category"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Category Name"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Choose Icon"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Choose Light or Dark for the overlay menu"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Choose Text color"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Choose a Slider. The Slider will replace the default page title."
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Choose a background for your page title"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Choose a custom Logo for the preloader screen."
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Choose a custom color for the hover effect"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Choose a layout"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Choose a settings for the Page Title"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Choose an image"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Choose the opacity for the overlay color"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Choose the portfolio category you want to show for this page"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Choose the position of the overlay header."
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Choose your Footer Style"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Choose your Header Style"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Choose your color."
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Choose your layout for the columns you want include."
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1 files/pagebuilder.php:1
+msgid "Color"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Color Background"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Color Background<br><i>These Settings will only have impact on the page itself, not if the page is a section of your one page.</i>"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Column 1"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Column 2"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Column 3"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Column 4"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Column 5"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Column Layout"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Columns"
+msgstr ""
+
+#. Text in function
+#: language files/theme-admin.php:147
+msgid "Comment"
+msgstr ""
+
+#. Text in echo
+#: language files/comments.php:25
+msgid "Comments"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Contact Form"
+msgstr ""
+
+#. Text in function
+#: language files/pagebuilder.php:1
+msgid "Content Size"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Content width (1080px)"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Copyright Info"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Count"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Count From"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Count To"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Counter"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Crop Thumbnails"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Crop the thumbnails? If deactivated it will have a masonry effect."
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Custom"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Custom CSS"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Custom Color"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Custom File"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Custom Login Logo"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Custom Preloader Logo"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1 files/pagebuilder.php:1
+#: files/option-panel.php:1
+msgid "Dark"
+msgstr ""
+
+#. Text in function
+#: language files/theme-custom-post-types.php:1
+msgid "Date"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1 files/pagebuilder.php:1
+#: files/option-panel.php:1
+msgid "Default"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Default (Center Center)"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Default (Fixed left/right)"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Default (above content)"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Default (dark)"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Default (no background)"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Default Border (40px)"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Default is 400.  Width is 100% of parent container."
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Demo Choose"
+msgstr ""
+
+#. Text in echo
+#: language files/theme-onepage-features.php:187
+msgid "Description"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Deviantart"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Display the back to top button in footer"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Divider"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Divider / Seperator"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Do you want a bottom padding for this section/page? Default is 'no'"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Do you want a top padding for this section/page? Choose 'no' if your section starts with any element which has a bakground."
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Do you want the hover color to be transparent?"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Do you want the page title to take the full browser height?"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Do you want the preloading effect on start of each page?"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Do you want to activate the sound of the video?"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Do you want to display a big transparent letter behind the main title?"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Do you want to display the category name?"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Do you want to have a parallax effect?"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Do you want to show the Filter?"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Do you want to show the featured image above the player?"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Dribbble"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Dropbox"
+msgstr ""
+
+#. Text in function
+#: language files/pagebuilder.php:1
+msgid "Edit Element"
+msgstr ""
+
+#. Text in function
+#: language files/theme-admin.php:147
+msgid "Email"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Embedded Audio"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Embedded Audio or Selfhosted?"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Embedded Video"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Embedded Video (iframe)"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Embedded Video or Selfhosted?"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Enable or disable the read more button on blog entries."
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Enable the share feature."
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Enter the google map latitude & longitude using this tool:<br>http://itouchmap.com/latlong.html"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Enter the quote."
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Enter the url of one of your media image"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Enter your subtitle for this page.  Leave it empty if you don't want do show any subtitle."
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Entries"
+msgstr ""
+
+#. Text in function
+#: language files/shortcodes.php:1
+msgid "Error"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Facebook"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Facebook Profile"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Favicon"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Fieldname / Label"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Fieltype"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Flickr"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Footer"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Footer Settings"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Footer Style"
+msgstr ""
+
+#. Text in function
+#: language files/pagebuilder.php:1
+msgid "Full Content (no padding)"
+msgstr ""
+
+#. Text in function
+#: language files/pagebuilder.php:1
+msgid "Full Content (width padding)"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Full Height"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Fullscreen Carousel"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Fullscreen Slider"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Fullwidth"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Fullwidth (Default)"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Gallery"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Gallery / Slider"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Gallery Layout (Single View)"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "General"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "General Headings"
+msgstr ""
+
+#. Text in echo
+#: language files/theme-onepage-features.php:197 files/shortcode-popup.php:1
+msgid "Go To"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1 files/pagebuilder.php:1
+msgid "Google Map"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Google Profile"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Google map"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Google+"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1 files/pagebuilder.php:1
+msgid "Greyscale"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1 files/option-panel.php:1
+msgid "Grid Size"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "H1"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "H2"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "H3"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "H4"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "H5"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "H6"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "HTML"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Header Style"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Header/Footer Settings"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Height"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Hide Title Text"
+msgstr ""
+
+#. Text in function
+#: language files/theme-admin.php:147
+msgid "Home"
+msgstr ""
+
+#. Text in function
+#: language files/pagebuilder.php:1
+msgid "Horizontal Section"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Hover Color"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Hover Text"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Hover Transparent"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "How big do you want the thumbnails?<br>Depending your size, make sure your uploaded images have the minimum width."
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "How many Portfolio items do you want to show. <br><b>-1 = all</b>.<br>If you have more portfolio items a load more button will be shown."
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Huge (800)"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "ID"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Icon"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "If empty, it will take the post name."
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "If you choose 'List' the images will be displayed below each other instead of a slider."
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1 files/pagebuilder.php:1
+msgid "Image"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Image (Optional)"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Image Background"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Image Background<br><i>These Settings will only have impact on the page itself, not if the page is a section of your one page.</i>"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Images"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Import Demo"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "In Page Title"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Include the embedded iframe."
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Info Method"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Infotext"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1520
+msgid "Insert"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Instagram"
+msgstr ""
+
+#. Text in function
+#: language files/functions.php:1
+msgid "Install Plugins"
+msgstr ""
+
+#. Text in function
+#: language files/functions.php:1
+msgid "Install Required Plugins"
+msgstr ""
+
+#. Text in function
+#: language files/functions.php:1
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Items (per Page)"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1 files/pagebuilder.php:1
+msgid "Latitude & Longitude"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1 files/option-panel.php:1
+msgid "Layout"
+msgstr ""
+
+#. Text in function
+#: language files/theme-admin.php:147
+msgid "Leave a Comment to %s"
+msgstr ""
+
+#. Text in function
+#: language files/theme-admin.php:147
+msgid "Leave a comment"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Leave it empty if you don't want any overlay color"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Left"
+msgstr ""
+
+#. Text in function
+#: language files/pagebuilder.php:1
+msgid "Left = big / Right = small"
+msgstr ""
+
+#. Text in function
+#: language files/pagebuilder.php:1
+msgid "Left = half / Right = half"
+msgstr ""
+
+#. Text in function
+#: language files/pagebuilder.php:1
+msgid "Left = small / Right = big"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1 files/pagebuilder.php:1
+#: files/option-panel.php:1
+msgid "Light"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Light or Dark Text size on hover?"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Lightbox?"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Link"
+msgstr ""
+
+#. Text in echo
+#: language files/theme-onepage-features.php:181
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Link to your Behance portfolio."
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Link to your Deviantart works."
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Link to your Dribbles."
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Link to your Dropbox."
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Link to your Facebook site."
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Link to your Flickr images."
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Link to your Google+ profile"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Link to your Instagram Gallery."
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Link to your LinkedIn profile."
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Link to your Pins."
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Link to your Thumblr."
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Link to your Twitter profile."
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Link to your Vimeo videos."
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Link to your Xing profile."
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Link to your Youtube channel."
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Link url"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "LinkedIn"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "LinkedIn Link"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "List"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "List (one below the other)"
+msgstr ""
+
+#. Text in function
+#: language files/theme-general-features.php:1
+msgid "Load More"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Logo Dark"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Logo Light"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1 files/theme-postmeta.php:1
+msgid "M4V File URL"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1 files/theme-postmeta.php:1
+msgid "MP3 File URL"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1 files/pagebuilder.php:1
+msgid "MP4 file url"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Mail Adress"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Main Color"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1 files/pagebuilder.php:1
+msgid "Map Color Style"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Map ID"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1 files/theme-postmeta.php:1
+msgid "Masonry"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Masonry, Split Section or Fullscreen Carousel?"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Medias"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Medias / Gallery"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1 files/pagebuilder.php:1
+msgid "Medium"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Medium (420)"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Method"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Method of options"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1 files/pagebuilder.php:1
+msgid "Mini"
+msgstr ""
+
+#. Text in function
+#: language files/pagebuilder.php:1
+msgid "Mini Content (limited to 400px width + centered)"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Minimal"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Misc Headings"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1 files/theme-admin.php:147
+msgid "Name"
+msgstr ""
+
+#. Text in function
+#: language files/pagebuilder.php:1
+msgid "Name (*optional)"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Name Subline"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Navigation"
+msgstr ""
+
+#. Text in echo
+#: language files/theme-onepage-features.php:157
+msgid "Navigation Label"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "New Page"
+msgstr ""
+
+#. Text in function
+#: language files/index.php:47
+msgid "Newer Post"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1 files/theme-postmeta.php:1
+#: files/pagebuilder.php:1 files/option-panel.php:1
+msgid "No"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "No Color (Black & White)"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "No Page Title"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "No Pagination (Don't show)"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "No Slider"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "No border"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "No overlay"
+msgstr ""
+
+#. Text in function
+#: language files/template-portfolio.php:79 files/index.php:27
+msgid "No posts has been found!"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Non Fixed (Bottom of the page)"
+msgstr ""
+
+#. Text in function
+#: language files/pagebuilder.php:1 files/option-panel.php:1
+msgid "None"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Number of members"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1 files/theme-postmeta.php:1
+msgid "OGA/OGG File URL"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1 files/pagebuilder.php:1
+msgid "OGV file url"
+msgstr ""
+
+#. Text in function
+#: language files/index.php:47
+msgid "Older Post"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Open"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Open Lightbox Video"
+msgstr ""
+
+#. Text in echo
+#: language files/theme-onepage-features.php:170
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#. Text in function
+#: language files/theme-onepage-features.php:210
+msgid "Original: %s"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Overlay"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1 files/pagebuilder.php:1
+msgid "Overlay Color"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Overlay Logo"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Overlay Menu Icon (Burger)"
+msgstr ""
+
+#. Text in function
+#: language files/pagebuilder.php:1
+msgid "Overlay Opacity"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Overlay Position"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Overlay Slider (revolution slider)"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Overlay opacity"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1 files/pagebuilder.php:1
+msgid "Padding Bottom"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1 files/pagebuilder.php:1
+msgid "Padding Top"
+msgstr ""
+
+#. Text in echo
+#: language files/theme-onepage-features.php:200
+msgid "Page"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Page / Section settings"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Page Title Settings"
+msgstr ""
+
+#. Text in function
+#: language files/theme-admin.php:147
+msgid "Page not found"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Page settings"
+msgstr ""
+
+#. Text in function
+#: language files/pagebuilder.php:1
+msgid "Pagebuilder"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Pagetitle / Hero"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Pagetitle / Section Title"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Pagination style between the portfolio posts."
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Pagination style between the single posts."
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1 files/pagebuilder.php:1
+msgid "Parallax Effect"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Paste your Google analytics (or other) code here."
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Percent Amount"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1 files/pagebuilder.php:1
+msgid "Pin Icon"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Pinterest"
+msgstr ""
+
+#. Text in function
+#: language files/shortcodes.php:1
+msgid "Please check your entries"
+msgstr ""
+
+#. Text in function
+#: language files/comments.php:8
+msgid "Please do not load this page directly!"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Please enter the height of the video file"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Please enter the width of the video file"
+msgstr ""
+
+#. Text in function
+#: language files/functions.php:1
+msgid "Plugin activated successfully."
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1 files/theme-custom-post-types.php:1
+#: files/theme-admin.php:147
+msgid "Portfolio"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Portfolio Position"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Portfolio Preview (Grid)"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Portfolio Settings"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Portfolio Single View"
+msgstr ""
+
+#. Text in function
+#: language files/theme-custom-post-types.php:1
+msgid "Portfolio categories"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Position"
+msgstr ""
+
+#. Text in function
+#: language files/theme-admin.php:147
+msgid "Post Comment"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1 files/pagebuilder.php:1
+msgid "Poster"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Preloader"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Preloader Logo"
+msgstr ""
+
+#. Text in function
+#: language files/theme-custom-post-types.php:1
+msgid "Project"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Quote"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Quote Name"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Quote Slider"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Quote Text"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "RSS"
+msgstr ""
+
+#. Text in echo
+#: language files/loop-blog.php:30
+msgid "Read More"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Read More Button"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Recipient Email"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1520
+msgid "Remove Image"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Required field?"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Reset Likes"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Reset Views"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Responsive Layout"
+msgstr ""
+
+#. Text in function
+#: language files/functions.php:1
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Revolution Slider"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Right"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Root Menu"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Same page"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Scroll to Section"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Scroll to section"
+msgstr ""
+
+#. Text in function
+#: language files/theme-admin.php:147
+msgid "Search"
+msgstr ""
+
+#. Text in echo
+#: language files/theme-onepage-features.php:199
+msgid "Section"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Select Slider"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Select a grid size for the blog preview."
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Select images"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Select your color"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1 files/theme-postmeta.php:1
+msgid "Selfhosted Audio"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1 files/theme-postmeta.php:1
+msgid "Selfhosted Video"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Selhosted Audio"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Selhosted Video"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1 files/header.php:88
+msgid "Share"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Show Featured Image"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Show Filter"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Show RSS link to the feed."
+msgstr ""
+
+#. Text in function
+#: language files/theme-admin.php:1
+msgid "Sidebar Blog"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Single Pagination"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Single Post View"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Size"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Skills"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1 files/theme-postmeta.php:1
+msgid "Slider"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Slider<br><i>These Settings will only have impact on the page itself, not if the page is a section of your one page.</i>"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Slugname"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1 files/pagebuilder.php:1
+msgid "Small"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Small (300)"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Small Content width (780px)"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Social Links"
+msgstr ""
+
+#. Text in function
+#: language files/functions.php:1
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Sound"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1 files/pagebuilder.php:1
+msgid "Spacer"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Spacer / Margin"
+msgstr ""
+
+#. Text in function
+#: language files/pagebuilder.php:1
+msgid "Spacer Size?"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Spacing"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Spacing between the thumbnail."
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Speed"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1 files/pagebuilder.php:1
+msgid "Split Section"
+msgstr ""
+
+#. Text in function
+#: language files/pagebuilder.php:1
+msgid "Split Size"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Split Text Content"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Sticky"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Sticky on pageload"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Sticky on scroll (default)"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Style"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Styling"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Sub Menu"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Subject"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Subline"
+msgstr ""
+
+#. Text in function
+#: language files/theme-admin.php:147
+msgid "Submit"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Submit Button"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1 files/option-panel.php:1
+msgid "Subtitle"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Tab Name"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Tab Text"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Tabs"
+msgstr ""
+
+#. Text in function
+#: language files/theme-admin.php:147
+msgid "Tag"
+msgstr ""
+
+#. Text in function
+#: language files/theme-custom-post-types.php:1
+msgid "Tags"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Team Layout"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Team Member"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1 files/option-panel.php:1
+msgid "Text"
+msgstr ""
+
+#. Text in function
+#: language files/pagebuilder.php:1
+msgid "Text / Editor"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1 files/option-panel.php:1
+msgid "Text Color"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1 files/pagebuilder.php:1
+msgid "Text color"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Text color for the text section?"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Textarea"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Textfield"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "The <b>Custom File method</b> is the best.  The css rules are written in a css file (custom-style.php) outside of the html. This method might not work on some servers.<br><br>The <b>HTML method</b> is fail-safe. The css rules are written in the head of the html.  <br>Only use this if \"Custom File\" is not working.<br><br><b>How to check if \"custom file method\" is working?</b><br>Choose \"custom file\" and change the \"Main Color\" in Styling and check if the color changed in your frontend site.  If this is the case, the custom file method is working fine."
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "The Demo has been imported"
+msgstr ""
+
+#. Text in echo
+#: language files/comments.php:7
+msgid "The comments is password protected. Enter your password."
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "The slider will overlay your bg image & replace the default page title! <b>Make sure to add transparent background to the slides</b>."
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "The slider will overlay your video & replace the default page title! <b>Make sure to add transparent background to the slides</b>."
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "The url to the M4V file"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "The url to the OGV file"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "The url to the WEBM file"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "The url to the m4v file"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1 files/theme-postmeta.php:1
+msgid "The url to the mp3 file"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1 files/theme-postmeta.php:1
+msgid "The url to the oga/ogg file"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1 files/theme-postmeta.php:1
+msgid "The url to the webmv file"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "The viewport Border option"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "This Text will be displayed on the Google Map"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "This activates the responsive layout for mobile devices."
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "This activates the social links in the footer. Configure Icons in Social Links."
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "This image will be shown for devices which don't support background video. Please make sure that this image has the same height than the video itself"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "This is important if you want to add multiple audios/videos. Use a unique value."
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "This is important if you want to use more maps in the same page."
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "This is the content for the split section which contains the text.  Be aware that the filter will placed below this content."
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Thumbnail Size"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Tile Size"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1 files/theme-custom-post-types.php:1
+msgid "Title"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Title Alignment"
+msgstr ""
+
+#. Text in echo
+#: language files/theme-onepage-features.php:163
+msgid "Title Attribute"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Title Name"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Title Position"
+msgstr ""
+
+#. Text in function
+#: language files/theme-admin.php:147
+msgid "To view this protected post, enter the password below:"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Toggle"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Toggle Open"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Toggle Size"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Toggle Text"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Toggle Title"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Top"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Top Center"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Top Left"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Top Right"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Tracking Code"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Tumblr"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Twitter"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Twitter Profile"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1 files/theme-postmeta.php:1
+msgid "Type"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Typography"
+msgstr ""
+
+#. Text in echo
+#: language files/theme-onepage-features.php:150 files/shortcode-popup.php:1
+msgid "URL"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Ultra Minimal"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Uppercase"
+msgstr ""
+
+#. Text in function
+#: language files/pagebuilder.php:1
+msgid "Vertical Align?"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1 files/pagebuilder.php:1
+msgid "Video"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Video Background"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Video Background<br><i>These Settings will only have impact on the page itself, not if the page is a section of your one page.</i>"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1 files/pagebuilder.php:1
+msgid "Video Height"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Video URL"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1 files/pagebuilder.php:1
+msgid "Video Width"
+msgstr ""
+
+#. Text in function
+#: language files/theme-general-features.php:1
+msgid "View all posts in %s"
+msgstr ""
+
+#. Text in function
+#: language files/theme-custom-post-types.php:1
+msgid "Views / Likes"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Vimeo"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1 files/pagebuilder.php:1
+msgid "WEBM file url"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1 files/theme-postmeta.php:1
+msgid "WEBMV File URL"
+msgstr ""
+
+#. Text in function
+#: language files/theme-admin.php:147
+msgid "Website"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "What color/Style for the overlay logo?"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "When the Header is switched to fixed, it displays the Post name + Share option instead of the logo and menu icon."
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Where do you want to display the audio?"
+msgstr ""
+
+#. Text in function
+#: language files/theme-postmeta.php:1
+msgid "Where should the portfolio be positioned?"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Which logo should be displayed on the preloader screen?"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "White (light button for dark backgrounds)"
+msgstr ""
+
+#. Text in function
+#: language files/pagebuilder.php:1
+msgid "Wrapped Content"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Wrapper"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "Wrapper Small"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Write your own CSS-Code."
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Xing"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1 files/theme-postmeta.php:1
+#: files/pagebuilder.php:1 files/option-panel.php:1
+msgid "Yes"
+msgstr ""
+
+#. Text in function
+#: language files/contact-form.php:1
+msgid "Your message has been sent. Thank You."
+msgstr ""
+
+#. Text in function
+#: language files/contact-form.php:1
+msgid "Your message has not been sent"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "Youtube"
+msgstr ""
+
+#. Text in function
+#: language files/shortcode-popup.php:1
+msgid "choose a custom pin icon"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "for blog settings reset"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "for portfolio settings reset"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "settings reset"
+msgstr ""
+
+#. Text in function
+#: language files/option-panel.php:1
+msgid "settings saved"
+msgstr ""

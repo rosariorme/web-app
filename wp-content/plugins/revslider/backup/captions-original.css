@@ -1,0 +1,66 @@
+.tp-caption.pond-title-big-dark {
+			font-family: 'Montserrat', Helvetica, Arial; 
+			font-weight: normal;
+			font-size: 90px; line-height: 104px;
+			color: #0d0d0d;
+		}
+.tp-caption.pond-title-big-white{
+			font-family: 'Montserrat', Helvetica, Arial;
+			font-weight: normal;
+			font-size: 90px; line-height: 104px;
+			color: #ffffff;
+		}
+.tp-caption.pond-title-medium-dark{
+			font-family: 'Montserrat', Helvetica, Arial; 
+			font-weight: normal;
+			font-size: 70px; line-height: 82px;
+			color: #0d0d0d;
+		}
+.tp-caption.pond-title-medium-white{
+			font-family: 'Montserrat', Helvetica, Arial; 
+			font-weight: normal;
+			font-size: 70px; line-height: 82px;
+			color: #ffffff;
+		}
+.tp-caption.pond-title-small-dark{
+			font-family: 'Montserrat', Helvetica, Arial; 
+			font-weight: 400;
+			font-size: 44px; line-height: 54px;
+			color: #0d0d0d;
+		}
+.tp-caption.pond-title-small-white{
+			font-family: 'Montserrat', Helvetica, Arial; 
+			font-weight: 400;
+			font-size: 44px; line-height: 54px;
+			color: #ffffff;
+		}
+.tp-caption.pond-title-mini-dark{
+			font-family: 'Montserrat', Helvetica, Arial; 
+			font-weight: 400;
+			font-size: 28px; line-height: 38px;
+			color: #0d0d0d;
+		}
+.tp-caption.pond-title-mini-white{
+			font-family: 'Montserrat', Helvetica, Arial; 
+			font-weight: 400;
+			font-size: 28px; line-height: 38px;
+			color: #ffffff;
+		}
+.tp-caption.pond-title-micro-dark{
+			font-family: 'Montserrat', Helvetica, Arial; 
+			font-weight: 400;
+			font-size: 18px; line-height: 26px;
+			color: #0d0d0d;
+		}
+.tp-caption.pond-title-micro-white{
+			font-family: 'Montserrat', Helvetica, Arial; 
+			font-weight: 400;
+			font-size: 18px; line-height: 26px;
+			color: #ffffff;
+		}
+.tp-caption.pond-text-dark{
+			color: #0d0d0d;
+		}
+.tp-caption.pond-text-white{
+			color: #ffffff;
+		}
